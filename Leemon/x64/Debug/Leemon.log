@@ -1,0 +1,13 @@
+﻿  main.cpp
+  commander.cpp
+c:\users\carle\desktop\leemon\leemon\src\commander.cpp(140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\carle\desktop\leemon\leemon\src\commander.cpp(141): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  engine.cpp
+c:\users\carle\desktop\leemon\leemon\src\engine.cpp(31): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\carle\desktop\leemon\leemon\src\engine.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  exceptions.cpp
+  mousedriver.cpp
+  pointpackage.cpp
+  recorder.cpp
+  Generating Code...
+  Leemon.vcxproj -> C:\Users\CarlE\Desktop\Leemon\x64\Debug\Leemon.exe
