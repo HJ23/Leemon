@@ -16,8 +16,8 @@ it needs a lot of fixes. I will back to that project later though.
 
 
 - Details
--- Written in C++ 
--- OpenCV library used for image processing
+- Written in C++ 
+- OpenCV library used for image processing
  
 *** Project is Cross_Platform but old Linux version needs some fixes ! (It will be added later)
 
