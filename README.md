@@ -18,6 +18,7 @@ it needs a lot of fixes. I will back to that project later though.
 - Details
 - Written in C++ 
 - OpenCV library used for image processing
+- Uses mouse for movements please do not use mouse during work 
  
 *** Project is Cross_Platform but old Linux version needs some fixes ! (It will be added later)
 
@@ -54,4 +55,5 @@ it needs a lot of fixes. I will back to that project later though.
 * -Add interrupt keys
 * -Improve algorithm
 * -Add GUI features
+* -Use sockets instead of mouse for movements
 
